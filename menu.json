@@ -1,151 +1,171 @@
 [
   {
     "day": "Poniedziałek",
-    "date": "01.06.2026",
+    "date": "25.05.2026",
     "courses": [
       {
         "type": "Zupa",
-        "name": "Zupa pomidorowa z ryżem",
+        "name": "Kapuśniak ze słodkiej kapusty.",
         "portion": "300ml",
-        "allergens": "7/9"
+        "allergens": "7/9",
+        "ingredients": "woda, ziemniaki, włoszczyzna paski, kapusta świeża, masło, śmietanka 30%, przyprawy( liść laurowy, ziele angielskie, pieprz czarny mielony, sól do smaku), natka pietruszki."
       },
       {
         "type": "II danie",
-        "name": "Naleśniki z twarogiem i musem truskawkowym",
+        "name": "Makaron razowy z indykiem i szpinakiem.",
         "portion": "350g",
-        "allergens": "1/3/7"
+        "allergens": "1/3/7/9",
+        "ingredients": "makaron razowy, filet z indyka, cebula, czosnek, szpinak, przyprawy( ziele angielskie, liść laurowy, papryka słodka, papryka ostra, pieprz czarny, sól do smaku)"
       },
       {
-        "type": "Przekąska",
-        "name": "Banan",
-        "portion": "1 szt.",
-        "allergens": ""
+        "type": "Surówka",
+        "name": "Ogórek kiszony/ jabłko.",
+        "portion": "100g / 120g",
+        "allergens": "",
+        "ingredients": ""
       },
       {
-        "type": "Napój",
-        "name": "Kompot owocowy",
+        "type": "Deser",
+        "name": "Kompot wieloowocowy.",
         "portion": "200ml",
-        "allergens": ""
+        "allergens": "",
+        "ingredients": ""
       }
     ]
   },
   {
     "day": "Wtorek",
-    "date": "02.06.2026",
+    "date": "26.05.2026",
     "courses": [
       {
         "type": "Zupa",
-        "name": "Zupa ogórkowa z ziemniakami",
+        "name": "Barszcz czerwony.",
         "portion": "300ml",
-        "allergens": "7/9"
+        "allergens": "1/3/7/9",
+        "ingredients": "woda, ziemniaki, włoszczyzna paski, masło, śmietanka 30%, burak czerwony, koperek, przyprawy (ziele angielskie, liść laurowy, sól do smaku, pieprz czarny mielony)."
       },
       {
         "type": "II danie",
-        "name": "Pieczeń wieprzowa w sosie własnym, kasza jęczmienna",
+        "name": "Klops wieprzowy w sosie, kasza bulgur.",
         "portion": "350g",
-        "allergens": "1/9"
+        "allergens": "1/3/9",
+        "ingredients": "mięso wieprzowe(łopatka, karkówka), jaja, bułka tarta, mąka, olej kujawski, przyprawy(sól do smaku, pieprz czarny). kasza bulgur."
       },
       {
         "type": "Surówka",
-        "name": "Surówka z czerwonej kapusty",
+        "name": "Marchew z jogurtem.",
         "portion": "100g",
-        "allergens": ""
+        "allergens": "7",
+        "ingredients": ""
       },
       {
-        "type": "Napój",
-        "name": "Woda z cytryną",
+        "type": "Deser",
+        "name": "Kompot z wiśni.",
         "portion": "200ml",
-        "allergens": ""
+        "allergens": "",
+        "ingredients": ""
       }
     ]
   },
   {
     "day": "Środa",
-    "date": "03.06.2026",
+    "date": "27.05.2026",
     "courses": [
       {
         "type": "Zupa",
-        "name": "Rosół drobiowy z makaronem",
+        "name": "Gryczana z ziemniakami.",
         "portion": "300ml",
-        "allergens": "1/3/9"
+        "allergens": "1/9",
+        "ingredients": "woda, kasza gryczana, masło, włoszczyzna paski, ziemniaki, przyprawy (ziele angielskie, liść laurowy, pieprz czarny, sól do smaku), natka pietruszki."
       },
       {
         "type": "II danie",
-        "name": "Udziec pieczony, ziemniaki",
+        "name": "Pieczona roladka drobiowa, ziemniaki.",
         "portion": "350g",
-        "allergens": "9"
+        "allergens": "9",
+        "ingredients": "udziec drobiowy, ziemniaki, przyprawy(sól, pieprz czarny, czosnek, papryka słodka, papryka ostra, majeranek)."
       },
       {
         "type": "Surówka",
-        "name": "Mizeria ze śmietaną",
+        "name": "Mizeria ze śmietaną.",
         "portion": "100g",
-        "allergens": "7"
+        "allergens": "7",
+        "ingredients": ""
       },
       {
-        "type": "Napój",
-        "name": "Kompot wieloowocowy",
-        "portion": "200ml",
-        "allergens": ""
+        "type": "Deser",
+        "name": "Kompot z czerwonej porzeczki/ Gruszka.",
+        "portion": "200ml / 120g",
+        "allergens": "",
+        "ingredients": ""
       }
     ]
   },
   {
     "day": "Czwartek",
-    "date": "04.06.2026",
+    "date": "28.05.2026",
     "courses": [
       {
         "type": "Zupa",
-        "name": "Zupa z fasolki szparagowej",
+        "name": "Grochowa z kiełbasą.",
         "portion": "300ml",
-        "allergens": "6/7/9"
+        "allergens": "6/9/10",
+        "ingredients": "woda, włoszczyzna paski, ziemniaki, kiełbasa, groch, przyprawy( ziele angielskie , liść laurowy, sól do smaku, majeranek, pieprz czarny)."
       },
       {
         "type": "II danie",
-        "name": "Gulasz z szynki, kasza gryczana",
+        "name": "Strogonow wołowy, ryż.",
         "portion": "350g",
-        "allergens": "1/9"
+        "allergens": "1/9",
+        "ingredients": "mięso wołowe, cebulka, pieczarka, ogórek kiszony, koncentrat pomidorowy, mąka, olej kujawski, przyprawy( ziele angielskie, liść laurowy, pieprz czarny, papryka słodka, papryka ostra, sól do smaku)."
       },
       {
         "type": "Surówka",
-        "name": "Ogórek konserwowy",
+        "name": "Kapusta czerwona z oliwą.",
         "portion": "100g",
-        "allergens": ""
+        "allergens": "",
+        "ingredients": ""
       },
       {
-        "type": "Napój",
-        "name": "Kompot z wiśni",
+        "type": "Deser",
+        "name": "Kompot z czarnej porzeczki.",
         "portion": "200ml",
-        "allergens": ""
+        "allergens": "",
+        "ingredients": ""
       }
     ]
   },
   {
     "day": "Piątek",
-    "date": "05.06.2026",
+    "date": "29.05.2026",
     "courses": [
       {
         "type": "Zupa",
-        "name": "Zupa krem z brokuła z grzankami",
+        "name": "Krem z białych warzyw z pestką dyni.",
         "portion": "300ml",
-        "allergens": "1/7/9"
+        "allergens": "9",
+        "ingredients": "woda, ziemniaki, włoszczyzna paski, por, seler korzeń, pietruszka korzeń, masło, śmietanka 30%, pestki dyni, przyprawy(liść laurowy, ziele angielskie, sól do smaku, pieprz czarny)."
       },
       {
         "type": "II danie",
-        "name": "Ryba w panierce, ryż z warzywami",
+        "name": "Smażony filet dorsza, ziemniaki.",
         "portion": "350g",
-        "allergens": "1/3/4"
+        "allergens": "1/3/4",
+        "ingredients": "Filet dorsza, olej kujawski, mąka, przyprawy( pieprz cytrynowy, pieprz czarny, sól do smaku), ziemniaki."
+      },
+      {
+        "type": "Surówka",
+        "name": "Fasolka szparagowa.",
+        "portion": "100g",
+        "allergens": "6",
+        "ingredients": ""
       },
       {
         "type": "Deser",
-        "name": "Kisiel cytrynowy",
-        "portion": "200ml",
-        "allergens": ""
-      },
-      {
-        "type": "Napój",
-        "name": "Herbata owocowa",
-        "portion": "200ml",
-        "allergens": ""
+        "name": "Kompot truskawkowy/ Kiwi.",
+        "portion": "200ml / 110g",
+        "allergens": "",
+        "ingredients": ""
       }
     ]
   },
@@ -155,27 +175,31 @@
     "courses": [
       {
         "type": "Zupa",
-        "name": "Krupnik z kaszą jęczmienną",
+        "name": "Żniwiarza.",
         "portion": "300ml",
-        "allergens": "1/9"
+        "allergens": "6/7/9",
+        "ingredients": "Włoszczyzna paski, ziemniaki, fasola, masło, koncentrat pomidorowy, przecier pomidorowy, śmietanka 30%, natka pietruszki, przyprawy( liść laurowy, ziele angielskie, sól do smaku, pieprz czarny)"
       },
       {
         "type": "II danie",
-        "name": "Pierogi ruskie z okrasą z cebulki",
-        "portion": "300g",
-        "allergens": "1/3/7"
+        "name": "Makaron z indykiem w sosie pieczarkowo- śmietanowym.",
+        "portion": "350g",
+        "allergens": "1/3/9",
+        "ingredients": "makaron, filet indyka, pieczarka, cebula, śmietana 18%, przyprawy(sól do smaku, ziele angielski, liść laurowy, pieprz czarny)"
       },
       {
-        "type": "Przekąska",
-        "name": "Jabłko",
-        "portion": "150g",
-        "allergens": ""
+        "type": "Surówka",
+        "name": "Ogórek konserwowy z kukurydzą.",
+        "portion": "100g",
+        "allergens": "",
+        "ingredients": ""
       },
       {
-        "type": "Napój",
-        "name": "Kompot śliwkowy",
+        "type": "Deser",
+        "name": "Kompot wieloowocowy.",
         "portion": "200ml",
-        "allergens": ""
+        "allergens": "",
+        "ingredients": ""
       }
     ]
   },
@@ -185,27 +209,31 @@
     "courses": [
       {
         "type": "Zupa",
-        "name": "Zupa pieczarkowa z makaronem",
+        "name": "Kapuśniak z kiełbasą.",
         "portion": "300ml",
-        "allergens": "1/3/7/9"
+        "allergens": "9",
+        "ingredients": "włoszczyzna paski, kapusta kiszona, kiełbasa, ziemniaki, olej, przyprawy, (liść laurowy, ziele angielskie, sól do smaku, pieprz czarny, majeranek)"
       },
       {
         "type": "II danie",
-        "name": "Potrawka z kurczaka, ryż biały",
+        "name": "Schab pieczony w sosie, kasza bulgur z susz. pomido.",
         "portion": "350g",
-        "allergens": "1/7/9"
+        "allergens": "1/9",
+        "ingredients": "mięso wieprzowe(schab), włoszczyzna paski, mąka, przyprawy(pieprz czarny, sól do smaku, czosnek, papryka ostra, papryka słodka) pomidory suszone w oliwie, kasza bulgur."
       },
       {
         "type": "Surówka",
-        "name": "Marchewka z groszkiem na ciepło",
+        "name": "Sałata lodowa z ogórkiem i jogurtem.",
         "portion": "100g",
-        "allergens": "7"
+        "allergens": "7",
+        "ingredients": ""
       },
       {
-        "type": "Napój",
-        "name": "Woda z miętą",
+        "type": "Deser",
+        "name": "Kompot z czerwonej porzeczki.",
         "portion": "200ml",
-        "allergens": ""
+        "allergens": "",
+        "ingredients": ""
       }
     ]
   },
@@ -215,27 +243,31 @@
     "courses": [
       {
         "type": "Zupa",
-        "name": "Barszcz czerwony zabielany z ziemniakami",
+        "name": "Krem z dyni z pestką.",
         "portion": "300ml",
-        "allergens": "7/9"
+        "allergens": "7/9",
+        "ingredients": "włoszczyzna paski, ziemniaki, dynia, masło, śmietanka 30%, przyprawy(sól do smaku, pieprz czarny), pestka dyni."
       },
       {
         "type": "II danie",
-        "name": "Klopsiki wieprzowe w sosie koperkowym, kasza bulgur",
-        "portion": "350g",
-        "allergens": "1/3/7"
+        "name": "Naleśniki z twarogiem.",
+        "portion": "250g",
+        "allergens": "1/3/7",
+        "ingredients": "mąka, jaja, mleko, twaróg, śmietana 18%, sól do smaku, cukier wanilinowy, cukier, truskawka, olej"
       },
       {
         "type": "Surówka",
-        "name": "Surówka z białej kapusty",
+        "name": "Polewa śmietanowo - truskawkowa.",
         "portion": "100g",
-        "allergens": ""
+        "allergens": "7",
+        "ingredients": ""
       },
       {
-        "type": "Napój",
-        "name": "Kompot z jabłek",
+        "type": "Deser",
+        "name": "Kompot z wiśni.",
         "portion": "200ml",
-        "allergens": ""
+        "allergens": "",
+        "ingredients": ""
       }
     ]
   },
@@ -245,27 +277,31 @@
     "courses": [
       {
         "type": "Zupa",
-        "name": "Zupa kalafiorowa",
+        "name": "Pomidorowa z makaronem.",
         "portion": "300ml",
-        "allergens": "7/9"
+        "allergens": "1/3/7/9",
+        "ingredients": "włoszczyzna paski, makaron, koncentrat pomidorowy, przecier pomidorowy, masło, śmietanka 30%, przyprawy( liść laurowy, ziele angielskie, pieprz czarny, sól do smaku)"
       },
       {
         "type": "II danie",
-        "name": "Tradycyjny kotlet schabowy, ziemniaki",
+        "name": "Stek wołowy z cebulką, ziemniaki.",
         "portion": "350g",
-        "allergens": "1/3"
+        "allergens": "1/3/9",
+        "ingredients": "mięso wołowe, mięso wieprzowe, jaj, mąka, olej, przyprawy(sól do smaku, pieprz czarny, czosnek, papryka słodka, papryka ostra) cebula."
       },
       {
         "type": "Surówka",
-        "name": "Mizeria z jogurtem",
+        "name": "Kapusta z marchewką i papryką.",
         "portion": "100g",
-        "allergens": "7"
+        "allergens": "7",
+        "ingredients": ""
       },
       {
-        "type": "Napój",
-        "name": "Sok pomarańczowy 100%",
+        "type": "Deser",
+        "name": "Kompot śliwkowy.",
         "portion": "200ml",
-        "allergens": ""
+        "allergens": "",
+        "ingredients": ""
       }
     ]
   },
@@ -275,387 +311,31 @@
     "courses": [
       {
         "type": "Zupa",
-        "name": "Żurek z jajkiem i kiełbasą",
+        "name": "Krupnik.",
         "portion": "300ml",
-        "allergens": "1/3/7/9"
+        "allergens": "1/7/9",
+        "ingredients": "włoszczyzna paski, masło, ziemniaki, kasza bulgur, koper, przyprawy( liść laurowy, ziele angielskie, pieprz czarny, sól do smaku)"
       },
       {
         "type": "II danie",
-        "name": "Paluszki z mintaja z pieca, frytki",
-        "portion": "300g",
-        "allergens": "1/3/4"
+        "name": "Kotlet rybny smażony, ziemniaki",
+        "portion": "350g",
+        "allergens": "1/3/4",
+        "ingredients": "filet rybny dorsza, olej, masło, jaja, bułka tarta, ziemniaki, przyprawy( sól do smaku, pieprz czarny, czosnek)"
       },
       {
         "type": "Surówka",
-        "name": "Surówka z kiszonej kapusty",
+        "name": "Kapusta kiszona z marchewką.",
         "portion": "100g",
-        "allergens": ""
-      },
-      {
-        "type": "Napój",
-        "name": "Herbata z cytryną",
-        "portion": "200ml",
-        "allergens": ""
-      }
-    ]
-  },
-  {
-    "day": "Poniedziałek",
-    "date": "15.06.2026",
-    "courses": [
-      {
-        "type": "Zupa",
-        "name": "Jarzynowa z ziemniakami",
-        "portion": "300ml",
-        "allergens": "7/9"
-      },
-      {
-        "type": "II danie",
-        "name": "Spaghetti z sosem bolońskim, ser",
-        "portion": "350g",
-        "allergens": "1/3/7/9"
-      },
-      {
-        "type": "Przekąska",
-        "name": "Gruszka",
-        "portion": "1 szt.",
-        "allergens": ""
-      },
-      {
-        "type": "Napój",
-        "name": "Kompot z porzeczki",
-        "portion": "200ml",
-        "allergens": ""
-      }
-    ]
-  },
-  {
-    "day": "Wtorek",
-    "date": "16.06.2026",
-    "courses": [
-      {
-        "type": "Zupa",
-        "name": "Szpinakowa z jajkiem",
-        "portion": "300ml",
-        "allergens": "3/7/9"
-      },
-      {
-        "type": "II danie",
-        "name": "Kotlet mielony, ziemniaki",
-        "portion": "350g",
-        "allergens": "1/3/9"
-      },
-      {
-        "type": "Surówka",
-        "name": "Buraczki z cebulką",
-        "portion": "100g",
-        "allergens": ""
-      },
-      {
-        "type": "Napój",
-        "name": "Kompot truskawkowy",
-        "portion": "200ml",
-        "allergens": ""
-      }
-    ]
-  },
-  {
-    "day": "Środa",
-    "date": "17.06.2026",
-    "courses": [
-      {
-        "type": "Zupa",
-        "name": "Zupa koperkowa z ryżem",
-        "portion": "300ml",
-        "allergens": "7/9"
-      },
-      {
-        "type": "II danie",
-        "name": "Karkówka pieczona, kluski śląskie",
-        "portion": "350g",
-        "allergens": "1/3"
-      },
-      {
-        "type": "Surówka",
-        "name": "Czerwona kapusta na ciepło",
-        "portion": "100g",
-        "allergens": ""
-      },
-      {
-        "type": "Napój",
-        "name": "Woda mineralna",
-        "portion": "200ml",
-        "allergens": ""
-      }
-    ]
-  },
-  {
-    "day": "Czwartek",
-    "date": "18.06.2026",
-    "courses": [
-      {
-        "type": "Zupa",
-        "name": "Grochowa z grzankami",
-        "portion": "300ml",
-        "allergens": "1/9"
-      },
-      {
-        "type": "II danie",
-        "name": "Rolada drobiowa, kasza kuskus",
-        "portion": "350g",
-        "allergens": "1"
-      },
-      {
-        "type": "Surówka",
-        "name": "Sałata lodowa z pomidorem i sosem vinaigrette",
-        "portion": "100g",
-        "allergens": "10"
-      },
-      {
-        "type": "Napój",
-        "name": "Sok jabłkowy",
-        "portion": "200ml",
-        "allergens": ""
-      }
-    ]
-  },
-  {
-    "day": "Piątek",
-    "date": "19.06.2026",
-    "courses": [
-      {
-        "type": "Zupa",
-        "name": "Barszcz biały",
-        "portion": "300ml",
-        "allergens": "1/7/9"
-      },
-      {
-        "type": "II danie",
-        "name": "Filet z dorsza pieczony, ziemniaki z koperkiem",
-        "portion": "350g",
-        "allergens": "4/7"
-      },
-      {
-        "type": "Surówka",
-        "name": "Surówka z marchwi i jabłka",
-        "portion": "100g",
-        "allergens": ""
-      },
-      {
-        "type": "Napój",
-        "name": "Kompot owocowy",
-        "portion": "200ml",
-        "allergens": ""
-      }
-    ]
-  },
-  {
-    "day": "Poniedziałek",
-    "date": "22.06.2026",
-    "courses": [
-      {
-        "type": "Zupa",
-        "name": "Zupa zacierkowa",
-        "portion": "300ml",
-        "allergens": "1/3/9"
-      },
-      {
-        "type": "II danie",
-        "name": "Pierogi leniwe z masłem i bułką tartą",
-        "portion": "300g",
-        "allergens": "1/3/7"
-      },
-      {
-        "type": "Przekąska",
-        "name": "Kawałek arbuza",
-        "portion": "150g",
-        "allergens": ""
-      },
-      {
-        "type": "Napój",
-        "name": "Woda z cytryną",
-        "portion": "200ml",
-        "allergens": ""
-      }
-    ]
-  },
-  {
-    "day": "Wtorek",
-    "date": "23.06.2026",
-    "courses": [
-      {
-        "type": "Zupa",
-        "name": "Kapuśniak ze słodkiej kapusty",
-        "portion": "300ml",
-        "allergens": "9"
-      },
-      {
-        "type": "II danie",
-        "name": "Strogonow drobiowy, ryż",
-        "portion": "350g",
-        "allergens": "7"
-      },
-      {
-        "type": "Surówka",
-        "name": "Ogórek małosolny",
-        "portion": "1 szt.",
-        "allergens": ""
-      },
-      {
-        "type": "Napój",
-        "name": "Kompot z truskawek",
-        "portion": "200ml",
-        "allergens": ""
-      }
-    ]
-  },
-  {
-    "day": "Środa",
-    "date": "24.06.2026",
-    "courses": [
-      {
-        "type": "Zupa",
-        "name": "Zupa szczawiowa z jajkiem",
-        "portion": "300ml",
-        "allergens": "3/7/9"
-      },
-      {
-        "type": "II danie",
-        "name": "Gołąbki w sosie pomidorowym, ziemniaki",
-        "portion": "350g",
-        "allergens": "3/9"
+        "allergens": "",
+        "ingredients": ""
       },
       {
         "type": "Deser",
-        "name": "Pudding waniliowy",
-        "portion": "150g",
-        "allergens": "7"
-      },
-      {
-        "type": "Napój",
-        "name": "Sok wieloowocowy",
+        "name": "Kisiel cytrynowy.",
         "portion": "200ml",
-        "allergens": ""
-      }
-    ]
-  },
-  {
-    "day": "Czwartek",
-    "date": "25.06.2026",
-    "courses": [
-      {
-        "type": "Zupa",
-        "name": "Rosół wołowo-drobiowy z makaronem",
-        "portion": "300ml",
-        "allergens": "1/3/9"
-      },
-      {
-        "type": "II danie",
-        "name": "Kurczak w potrawce z marchewką i groszkiem, ziemniaki",
-        "portion": "350g",
-        "allergens": "7/9"
-      },
-      {
-        "type": "Surówka",
-        "name": "Sałata ze śmietaną",
-        "portion": "100g",
-        "allergens": "7"
-      },
-      {
-        "type": "Napój",
-        "name": "Herbata owocowa",
-        "portion": "200ml",
-        "allergens": ""
-      }
-    ]
-  },
-  {
-    "day": "Piątek",
-    "date": "26.06.2026",
-    "courses": [
-      {
-        "type": "Zupa",
-        "name": "Zupa krem z pomidorów z grzankami",
-        "portion": "300ml",
-        "allergens": "1/7/9"
-      },
-      {
-        "type": "II danie",
-        "name": "Makaron z serem białym na słodko",
-        "portion": "300g",
-        "allergens": "1/3/7"
-      },
-      {
-        "type": "Przekąska",
-        "name": "Mus jabłkowy",
-        "portion": "100g",
-        "allergens": ""
-      },
-      {
-        "type": "Napój",
-        "name": "Kompot z wiśni",
-        "portion": "200ml",
-        "allergens": ""
-      }
-    ]
-  },
-  {
-    "day": "Poniedziałek",
-    "date": "29.06.2026",
-    "courses": [
-      {
-        "type": "Zupa",
-        "name": "Zupa z fasolki szparagowej",
-        "portion": "300ml",
-        "allergens": "7/9"
-      },
-      {
-        "type": "II danie",
-        "name": "Gulasz wieprzowy, kasza jęczmienna",
-        "portion": "350g",
-        "allergens": "1/9"
-      },
-      {
-        "type": "Surówka",
-        "name": "Ogórek konserwowy",
-        "portion": "100g",
-        "allergens": ""
-      },
-      {
-        "type": "Napój",
-        "name": "Woda mineralna",
-        "portion": "200ml",
-        "allergens": ""
-      }
-    ]
-  },
-  {
-    "day": "Wtorek",
-    "date": "30.06.2026",
-    "courses": [
-      {
-        "type": "Zupa",
-        "name": "Zupa kalafiorowa z ziemniakami",
-        "portion": "300ml",
-        "allergens": "7/9"
-      },
-      {
-        "type": "II danie",
-        "name": "Kotlet drobiowy panierowany, ziemniaki",
-        "portion": "350g",
-        "allergens": "1/3"
-      },
-      {
-        "type": "Surówka",
-        "name": "Mizeria",
-        "portion": "100g",
-        "allergens": "7"
-      },
-      {
-        "type": "Napój",
-        "name": "Kompot owocowy",
-        "portion": "200ml",
-        "allergens": ""
+        "allergens": "",
+        "ingredients": ""
       }
     ]
   }
