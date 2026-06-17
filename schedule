@@ -1,0 +1,8810 @@
+[
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 19",
+    "TeacherName": "Mieszczyńska Ewa",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 20",
+    "TeacherName": "Czajkowska Anna",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 21",
+    "TeacherName": "Bojarzyn-Zalewska Ewa",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 23",
+    "TeacherName": "Koplin Katarzyna",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 102",
+    "TeacherName": "Piotrowska Izabela",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 103",
+    "TeacherName": "Opaliński Kacper",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 109",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 110",
+    "TeacherName": "Paderewska Justyna",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119a",
+    "TeacherName": "Szarek Emilia",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 202",
+    "TeacherName": "Rynko Ewelina",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 208",
+    "TeacherName": "Kaczyńska Sabina",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 209",
+    "TeacherName": "Słowińska Magdalena",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 212",
+    "TeacherName": "Pawłowiec Justyna",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 216",
+    "TeacherName": "Misztuk Anna",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 217",
+    "TeacherName": "Kozłowska Aleksandra",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 19",
+    "TeacherName": "Mieszczyńska Ewa",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 20",
+    "TeacherName": "Urynowicz Anna",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 21",
+    "TeacherName": "Czajkowska Anna",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 22",
+    "TeacherName": "Kicka Aleksandra",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 23",
+    "TeacherName": "Koplin Katarzyna",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 102",
+    "TeacherName": "Piotrowska Izabela",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 105",
+    "TeacherName": "Szuszkiewicz Bożena",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 106",
+    "TeacherName": "Zalewska Wiktoria",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119a",
+    "TeacherName": "Szarek Emilia",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 202",
+    "TeacherName": "Rynko Ewelina",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 203",
+    "TeacherName": "Pawłowska Monika",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 204",
+    "TeacherName": "Drężek Izabela",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 205",
+    "TeacherName": "Bojarowski Marcin",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 206",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 207",
+    "TeacherName": "Karczmarczyk Ewa",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 208",
+    "TeacherName": "Kaczyńska Sabina",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 212",
+    "TeacherName": "Pawłowiec Justyna",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 214",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 216",
+    "TeacherName": "Ewa Wacikowska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 18",
+    "TeacherName": "Kruk Damian",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 19",
+    "TeacherName": "Mieszczyńska Ewa",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 20",
+    "TeacherName": "Urynowicz Anna",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 21",
+    "TeacherName": "Czajkowska Anna",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 22",
+    "TeacherName": "Kicka Aleksandra",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 23",
+    "TeacherName": "Koplin Katarzyna",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 102",
+    "TeacherName": "Piotrowska Izabela",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 104",
+    "TeacherName": "Cichocka Joanna",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 105",
+    "TeacherName": "Szuszkiewicz Bożena",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 106",
+    "TeacherName": "Zalewska Wiktoria",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 116",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 118",
+    "TeacherName": "Misztuk Anna",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119a",
+    "TeacherName": "Piasecka Sylwia",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 125",
+    "TeacherName": "Gorczewski Jakub",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 202",
+    "TeacherName": "Drężek Izabela",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 203",
+    "TeacherName": "Yana Lysenko",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 204",
+    "TeacherName": "Dąbrowska Marta",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 206",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 207",
+    "TeacherName": "Karczmarczyk Ewa",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 212",
+    "TeacherName": "Pawłowiec Justyna",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 18",
+    "TeacherName": "Bojarowski Marcin",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 19",
+    "TeacherName": "Zalewska Wiktoria",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 22",
+    "TeacherName": "Kicka Aleksandra",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 23",
+    "TeacherName": "Dmochowska Zofia",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 24",
+    "TeacherName": "Styczyńska Małgorzata",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 102",
+    "TeacherName": "Piotrowska Izabela",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 103",
+    "TeacherName": "Koplin Katarzyna",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 104",
+    "TeacherName": "Lysenko Yana",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 105",
+    "TeacherName": "Szuszkiewicz Bożena",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 106",
+    "TeacherName": "Pawłowska Monika",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 107",
+    "TeacherName": "Lewicka Weronika",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 109",
+    "TeacherName": "Kalita Anna",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119a",
+    "TeacherName": "Piasecka Sylwia",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 121",
+    "TeacherName": "Meller Jolanta",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 125",
+    "TeacherName": "Kruk Damian",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 202",
+    "TeacherName": "Rynko Ewelina",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 203",
+    "TeacherName": "Cichocka Joanna",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 204",
+    "TeacherName": "Dąbrowska Marta",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 205",
+    "TeacherName": "Bukowski Piotr",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 206",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 207",
+    "TeacherName": "Karczmarczyk Ewa",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 18",
+    "TeacherName": "Kruk Damian",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 19",
+    "TeacherName": "Urynowicz Anna",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 20",
+    "TeacherName": "Czajkowska Anna",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 21",
+    "TeacherName": "Bojarzyn-Zalewska Ewa",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 22",
+    "TeacherName": "Kicka Aleksandra",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 23",
+    "TeacherName": "Pełszyk Paweł",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 102",
+    "TeacherName": "Piotrowska Izabela",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 103",
+    "TeacherName": "Fakultet",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 104",
+    "TeacherName": "Karczmarczyk Ewa",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 106",
+    "TeacherName": "Pawłowska Monika",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 108",
+    "TeacherName": "Otolińska Beata",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 109",
+    "TeacherName": "Opaliński Kacper",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 116",
+    "TeacherName": "Gorczewski Jakub",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119a",
+    "TeacherName": "Piasecka Sylwia",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 121",
+    "TeacherName": "Meller Jolanta",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 125",
+    "TeacherName": "Gorczewski Jakub",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 202",
+    "TeacherName": "Rynko Ewelina",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 203",
+    "TeacherName": "Cichocka Joanna",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 204",
+    "TeacherName": "Sabina Kaczyńska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 208",
+    "TeacherName": "Paderewska Justyna",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 212",
+    "TeacherName": "Misztuk Anna",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 214",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 216",
+    "TeacherName": "Ewa Wacikowska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 217",
+    "TeacherName": "Słowińska Magdalena",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "ST",
+    "TeacherName": "Krawczyk Marta",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 23",
+    "TeacherName": "Koplin Katarzyna",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 103",
+    "TeacherName": "Piotrowska Izabela",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 107",
+    "TeacherName": "Lewicka Weronika",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 108",
+    "TeacherName": "Otolińska Beata",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 109",
+    "TeacherName": "Kalita Anna",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 116",
+    "TeacherName": "Gorczewski Jakub",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 118",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119a",
+    "TeacherName": "Bojarowski Marcin",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 121",
+    "TeacherName": "Pawłowiec Justyna",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 125",
+    "TeacherName": "Gorczewski Jakub",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 202",
+    "TeacherName": "Rynko Ewelina",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 203",
+    "TeacherName": "Wołejko Anna",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 204",
+    "TeacherName": "Dąbrowska Marta",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 205",
+    "TeacherName": "Bojarowski Marcin",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 208",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 209",
+    "TeacherName": "Piasecka Sylwia",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 210",
+    "TeacherName": "Szarek Emilia",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 212",
+    "TeacherName": "Misztuk Anna",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 214",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 216",
+    "TeacherName": "Ewa Wacikowska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 18",
+    "TeacherName": "Bergmański Grzegorz",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 22",
+    "TeacherName": "Zalewska-Siudak Anna",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 23",
+    "TeacherName": "Pełszyk Paweł",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 102",
+    "TeacherName": "Prokopowicz Sylwia",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 103",
+    "TeacherName": "Koplin Katarzyna",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 106",
+    "TeacherName": "Bilski Zbigniew",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 107",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 108",
+    "TeacherName": "Otolińska Beata",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 109",
+    "TeacherName": "Kalita Anna",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 116",
+    "TeacherName": "Gorczewski Jakub",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 118",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119a",
+    "TeacherName": "Piasecka Sylwia",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 121",
+    "TeacherName": "Meller Jolanta",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 125",
+    "TeacherName": "Gorczewski Jakub",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 202",
+    "TeacherName": "Rynko Ewelina",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 203",
+    "TeacherName": "Cichocka Joanna",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 204",
+    "TeacherName": "Radawiec Wioleta",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 205",
+    "TeacherName": "Bojarowski Marcin",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 206",
+    "TeacherName": "Dmochowska Zofia",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 207",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 208",
+    "TeacherName": "Paderewska Justyna",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 210",
+    "TeacherName": "Szarek Emilia",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 212",
+    "TeacherName": "Misztuk Anna",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 214",
+    "TeacherName": "Pawłowiec Justyna",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 215",
+    "TeacherName": "Bilski Zbigniew",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 216",
+    "TeacherName": "Ewa Wacikowska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 217",
+    "TeacherName": "Styczyńska Małgorzata",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 18",
+    "TeacherName": "Bergmański Grzegorz",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 102",
+    "TeacherName": "Prokopowicz Sylwia",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 103",
+    "TeacherName": "Koplin Katarzyna",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 107",
+    "TeacherName": "Lewicka Weronika",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 108",
+    "TeacherName": "Otolińska Beata",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 116",
+    "TeacherName": "Gorczewski Jakub",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 118",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119a",
+    "TeacherName": "Piasecka Sylwia",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 121",
+    "TeacherName": "Meller Jolanta",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 125",
+    "TeacherName": "Gorczewski Jakub",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 202",
+    "TeacherName": "Rynko Ewelina",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 204",
+    "TeacherName": "Radawiec Wioleta",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 208",
+    "TeacherName": "Paderewska Justyna",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 210",
+    "TeacherName": "Agnieszka Kucińska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 212",
+    "TeacherName": "Pawłowiec Justyna",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 214",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 215",
+    "TeacherName": "Bilski Zbigniew",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 216",
+    "TeacherName": "Misztuk Anna",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 18",
+    "TeacherName": "Bergmański Grzegorz",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 23",
+    "TeacherName": "Pełszyk Paweł",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 208",
+    "TeacherName": "Paderewska Justyna",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 212",
+    "TeacherName": "Pawłowiec Justyna",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala ST",
+    "TeacherName": "Krawczyk Marta",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 18",
+    "TeacherName": "Bergmański Grzegorz",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 18",
+    "TeacherName": "Bergmański Grzegorz",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 18",
+    "TeacherName": "Bergmański Grzegorz",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 18",
+    "TeacherName": "Kruk Damian",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 18",
+    "TeacherName": "Bergmański Grzegorz",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 18",
+    "TeacherName": "Bergmański Grzegorz",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 18",
+    "TeacherName": "Bergmański Grzegorz",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 18",
+    "TeacherName": "Bergmański Grzegorz",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 19",
+    "TeacherName": "Bergmański Grzegorz",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 19",
+    "TeacherName": "Bergmański Grzegorz",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 19",
+    "TeacherName": "Mieszczyńska Ewa",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 19",
+    "TeacherName": "Mieszczyńska Ewa",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 19",
+    "TeacherName": "Mieszczyńska Ewa",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 20",
+    "TeacherName": "Urynowicz Anna",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 20",
+    "TeacherName": "Urynowicz Anna",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 20",
+    "TeacherName": "Urynowicz Anna",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 20",
+    "TeacherName": "Urynowicz Anna",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 20",
+    "TeacherName": "Czajkowska Anna",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 21",
+    "TeacherName": "Zalewska Wiktoria",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 21",
+    "TeacherName": "Zalewska Wiktoria",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 21",
+    "TeacherName": "Piotrowska Izabela",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 21",
+    "TeacherName": "Zalewska Wiktoria",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 21",
+    "TeacherName": "Bojarzyn-Zalewska Ewa",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 21",
+    "TeacherName": "Otolińska Beata",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 21",
+    "TeacherName": "Otolińska Beata",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 22",
+    "TeacherName": "Kicka Aleksandra",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 22",
+    "TeacherName": "Kicka Aleksandra",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 22",
+    "TeacherName": "Kicka Aleksandra",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 23",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 23",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 23",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 23",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 23",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 23",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 24",
+    "TeacherName": "Gwiazda Diana",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 24",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 24",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 102",
+    "TeacherName": "Piotrowska Izabela",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 102",
+    "TeacherName": "Prokopowicz Sylwia",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 102",
+    "TeacherName": "Prokopowicz Sylwia",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 103",
+    "TeacherName": "Koplin Katarzyna",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 103",
+    "TeacherName": "Pawłowska Monika",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 103",
+    "TeacherName": "Pawłowska Monika",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 103",
+    "TeacherName": "Pawłowska Monika",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 103",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 103",
+    "TeacherName": "Koplin Katarzyna",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 103",
+    "TeacherName": "Koplin Katarzyna",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 104",
+    "TeacherName": "Krawczyk Marta",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 104",
+    "TeacherName": "Yana Lysenko",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 104",
+    "TeacherName": "Czajkowska Anna",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 104",
+    "TeacherName": "Yana Lysenko",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 104",
+    "TeacherName": "Czajkowska Anna",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "",
+    "Location": "Sala 104",
+    "TeacherName": "Koplin Katarzyna",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 104",
+    "TeacherName": "Krawczyk Marta",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 105",
+    "TeacherName": "Szuszkiewicz Bożena",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 105",
+    "TeacherName": "Pryk Anna",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 105",
+    "TeacherName": "Drężek Izabela",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 105",
+    "TeacherName": "Drężek Izabela",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 105",
+    "TeacherName": "Pryk Anna",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 105",
+    "TeacherName": "Drężek Izabela",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 105",
+    "TeacherName": "Szuszkiewicz Bożena",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 106",
+    "TeacherName": "Drężek Izabela",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 106",
+    "TeacherName": "Bojarzyn-Zalewska Ewa",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 106",
+    "TeacherName": "Pawłowska Monika",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 106",
+    "TeacherName": "Pawłowska Monika",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 106",
+    "TeacherName": "Pawłowska Monika",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 106",
+    "TeacherName": "Pawłowska Monika",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 107",
+    "TeacherName": "Lewicka Weronika",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 107",
+    "TeacherName": "Lewicka Weronika",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 107",
+    "TeacherName": "Lewicka Weronika",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 107",
+    "TeacherName": "Lewicka Weronika",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 107",
+    "TeacherName": "Bojarzyn-Zalewska Ewa",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 108",
+    "TeacherName": "Otolińska Beata",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 108",
+    "TeacherName": "Otolińska Beata",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 108",
+    "TeacherName": "Szarek Emilia",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 108",
+    "TeacherName": "Opaliński Kacper",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 109",
+    "TeacherName": "Kalita Anna",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 109",
+    "TeacherName": "Kalita Anna",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 109",
+    "TeacherName": "Kalita Anna",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 109",
+    "TeacherName": "Kalita Anna",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 109",
+    "TeacherName": "Kalita Anna",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 109",
+    "TeacherName": "Kalita Anna",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Kucińska",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 110",
+    "TeacherName": "Opaliński Kacper",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 110",
+    "TeacherName": "Opaliński Kacper",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 116",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 116",
+    "TeacherName": "Wołejko Anna",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 118",
+    "TeacherName": "Piasecka Sylwia",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 118",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 118",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 118",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 118",
+    "TeacherName": "Wołejko Anna",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 119a",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 119a",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 119a",
+    "TeacherName": "Piasecka Sylwia",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 119a",
+    "TeacherName": "Piasecka Sylwia",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 119a",
+    "TeacherName": "Piasecka Sylwia",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 121",
+    "TeacherName": "Meller Jolanta",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 121",
+    "TeacherName": "Meller Jolanta",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 121",
+    "TeacherName": "Meller Jolanta",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 121",
+    "TeacherName": "Meller Jolanta",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 121",
+    "TeacherName": "Meller Jolanta",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 121",
+    "TeacherName": "Meller Jolanta",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 121",
+    "TeacherName": "Meller Jolanta",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 121",
+    "TeacherName": "Meller Jolanta",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 125",
+    "TeacherName": "Gorczewski Jakub",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 125",
+    "TeacherName": "Gorczewski Jakub",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 125",
+    "TeacherName": "Gorczewski Jakub",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 125",
+    "TeacherName": "Gorczewski Jakub",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 125",
+    "TeacherName": "Gorczewski Jakub",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 125",
+    "TeacherName": "Gorczewski Jakub",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 202",
+    "TeacherName": "Cichocka Joanna",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 202",
+    "TeacherName": "Cichocka Joanna",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 202",
+    "TeacherName": "Cichocka Joanna",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 202",
+    "TeacherName": "Rynko Ewelina",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 202",
+    "TeacherName": "Cichocka Joanna",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 202",
+    "TeacherName": "Cichocka Joanna",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 202",
+    "TeacherName": "Cichocka Joanna",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 202",
+    "TeacherName": "Cichocka Joanna",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 203",
+    "TeacherName": "Radawiec Wioleta",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 203",
+    "TeacherName": "Radawiec Wioleta",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 203",
+    "TeacherName": "Radawiec Wioleta",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 203",
+    "TeacherName": "Radawiec Wioleta",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 203",
+    "TeacherName": "Radawiec Wioleta",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 204",
+    "TeacherName": "Styczyńska Małgorzata",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 204",
+    "TeacherName": "Piotr Złotkowski",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 204",
+    "TeacherName": "Piotr Złotkowski",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 204",
+    "TeacherName": "Zalewska Wiktoria",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 204",
+    "TeacherName": "Dąbrowska Marta",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 204",
+    "TeacherName": "Piotr Złotkowski",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 204",
+    "TeacherName": "Piotr Złotkowski",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 205",
+    "TeacherName": "Bojarowski Marcin",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 205",
+    "TeacherName": "Bojarowski Marcin",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 205",
+    "TeacherName": "Bojarowski Marcin",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 205",
+    "TeacherName": "Bojarowski Marcin",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 205",
+    "TeacherName": "Bukowski Piotr",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 205",
+    "TeacherName": "Bukowski Piotr",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 205",
+    "TeacherName": "Bukowski Piotr",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 205",
+    "TeacherName": "Bukowski Piotr",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 206",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 206",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 206",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 206",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 206",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 206",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 207",
+    "TeacherName": "Karczmarczyk Ewa",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 207",
+    "TeacherName": "Karczmarczyk Ewa",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 207",
+    "TeacherName": "Karczmarczyk Ewa",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 207",
+    "TeacherName": "Karczmarczyk Ewa",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 207",
+    "TeacherName": "Karczmarczyk Ewa",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 207",
+    "TeacherName": "Karczmarczyk Ewa",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 207",
+    "TeacherName": "Karczmarczyk Ewa",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 207",
+    "TeacherName": "Karczmarczyk Ewa",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 208",
+    "TeacherName": "Pełszyk Paweł",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 208",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 208",
+    "TeacherName": "Pełszyk Paweł",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 208",
+    "TeacherName": "Pełszyk Paweł",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 209",
+    "TeacherName": "Słowińska Magdalena",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 209",
+    "TeacherName": "Słowińska Magdalena",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 210",
+    "TeacherName": "Emilia Szarek",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 210",
+    "TeacherName": "Emilia Szarek",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 212",
+    "TeacherName": "Pawłowiec Justyna",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 212",
+    "TeacherName": "Czajkowska Anna",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 212",
+    "TeacherName": "Misztuk Anna",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 212",
+    "TeacherName": "Misztuk Anna",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 212",
+    "TeacherName": "Misztuk Anna",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 214",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 214",
+    "TeacherName": "Styczyńska Małgorzata",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 214",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 214",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 216",
+    "TeacherName": "Styczyńska Małgorzata",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 216",
+    "TeacherName": "Szuszkiewicz Bożena",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 216",
+    "TeacherName": "Kozłowska Aleksandra",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 216",
+    "TeacherName": "Ewa Wacikowska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 216",
+    "TeacherName": "Ewa Wacikowska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala ST",
+    "TeacherName": "Marta Krawczyk",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 18",
+    "TeacherName": "Grzegorz Bergmański",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 18",
+    "TeacherName": "Grzegorz Bergmański",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 18",
+    "TeacherName": "Grzegorz Bergmański",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 18",
+    "TeacherName": "Grzegorz Bergmański",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 18",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 18",
+    "TeacherName": "Grzegorz Bergmański",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 18",
+    "TeacherName": "Grzegorz Bergmański",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 19",
+    "TeacherName": "Ewa Mieszczyńska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 19",
+    "TeacherName": "Ewa Mieszczyńska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 19",
+    "TeacherName": "Piotr Bukowski",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 19",
+    "TeacherName": "Piotr Bukowski",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 20",
+    "TeacherName": "Anna Czajkowska",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 20",
+    "TeacherName": "Anna Czajkowska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 20",
+    "TeacherName": "Anna Czajkowska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 20",
+    "TeacherName": "Anna Urynowicz",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 20",
+    "TeacherName": "Anna Urynowicz",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 20",
+    "TeacherName": "Anna Czajkowska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 21",
+    "TeacherName": "Monika Pawłowska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 21",
+    "TeacherName": "Grzegorz Bergmański",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 21",
+    "TeacherName": "Grzegorz Bergmański",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 22",
+    "TeacherName": "Mirella Czerwińska-Bartosik",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 22",
+    "TeacherName": "Mirella Czerwińska-Bartosik",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 22",
+    "TeacherName": "Kicka Aleksandra",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 22",
+    "TeacherName": "Kicka Aleksandra",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 22",
+    "TeacherName": "Weronika Lewicka",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 22",
+    "TeacherName": "Weronika Lewicka",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 23",
+    "TeacherName": "Paweł Pełszyk",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 23",
+    "TeacherName": "Paweł Pełszyk",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 23",
+    "TeacherName": "Anna Misztuk",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 24",
+    "TeacherName": "Damian Kruk",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 24",
+    "TeacherName": "Damian Kruk",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 24",
+    "TeacherName": "Mirella Czerwińska-Bartosik",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 24",
+    "TeacherName": "Mirella Czerwińska-Bartosik",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 24",
+    "TeacherName": "Mirella Czerwińska-Bartosik",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 102",
+    "TeacherName": "Sylwia Prokopowicz",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 102",
+    "TeacherName": "Sylwia Prokopowicz",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 102",
+    "TeacherName": "Sylwia Prokopowicz",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 102",
+    "TeacherName": "Sylwia Prokopowicz",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 102",
+    "TeacherName": "Izabela Piotrowska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 102",
+    "TeacherName": "Izabela Piotrowska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 102",
+    "TeacherName": "Izabela Piotrowska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 103",
+    "TeacherName": "Elżbieta Sokołowska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 103",
+    "TeacherName": "Elżbieta Sokołowska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 103",
+    "TeacherName": "Elżbieta Sokołowska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 103",
+    "TeacherName": "Katarzyna Koplin",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 103",
+    "TeacherName": "Katarzyna Koplin",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 103",
+    "TeacherName": "Katarzyna Koplin",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 104",
+    "TeacherName": "Yana Lysenko",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 104",
+    "TeacherName": "Yana Lysenko",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 105",
+    "TeacherName": "Monika Pawłowska",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 105",
+    "TeacherName": "Izabela Drężek",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 105",
+    "TeacherName": "Izabela Drężek",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 105",
+    "TeacherName": "Izabela Drężek",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 105",
+    "TeacherName": "Izabela Drężek",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 105",
+    "TeacherName": "Marta Rogińska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 105",
+    "TeacherName": "Izabela Drężek",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 105",
+    "TeacherName": "Izabela Drężek",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 106",
+    "TeacherName": "Bojarzyn-Zalewska Ewa",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 107",
+    "TeacherName": "Monika Pawłowska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 106",
+    "TeacherName": "Monika Pawłowska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 106",
+    "TeacherName": "Monika Pawłowska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 106",
+    "TeacherName": "Monika Pawłowska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 107",
+    "TeacherName": "Weronika Lewicka",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 107",
+    "TeacherName": "Wiktoria Zalewska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 107",
+    "TeacherName": "Wiktoria Zalewska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 108",
+    "TeacherName": "Beata Otolińska",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 108",
+    "TeacherName": "Beata Otolińska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 108",
+    "TeacherName": "Beata Otolińska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 108",
+    "TeacherName": "Beata Otolińska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 108",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 108",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 108",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 108",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 109",
+    "TeacherName": "Emilia Szarek",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 109",
+    "TeacherName": "Anna Wołejko",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 109",
+    "TeacherName": "Anna Wołejko",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 109",
+    "TeacherName": "Anna Kalita",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 109",
+    "TeacherName": "Anna Kalita",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 110",
+    "TeacherName": "Monika Sutkowska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 114",
+    "TeacherName": "Witold Kostuj",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 114",
+    "TeacherName": "Witold Kostuj",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 114",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 114",
+    "TeacherName": "Witold Kostuj",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 114",
+    "TeacherName": "Witold Kostuj",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 115",
+    "TeacherName": "Ewa Barańska",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 115",
+    "TeacherName": "Ewa Barańska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 115",
+    "TeacherName": "Ewa Barańska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 115",
+    "TeacherName": "Ewa Barańska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 115",
+    "TeacherName": "Ewa Barańska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 115",
+    "TeacherName": "Ewa Barańska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 116",
+    "TeacherName": "Jarosław Strzelecki",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 116",
+    "TeacherName": "Jarosław Strzelecki",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 116",
+    "TeacherName": "Bojarowski Marcin",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 116",
+    "TeacherName": "Jarosław Strzelecki",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 118",
+    "TeacherName": "Anna Wołejko",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 118",
+    "TeacherName": "Monika Sutkowska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 118",
+    "TeacherName": "Monika Sutkowska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 118",
+    "TeacherName": "Monika Sutkowska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 119",
+    "TeacherName": "Adam Roman",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 119",
+    "TeacherName": "Adam Roman",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 119",
+    "TeacherName": "Adam Roman",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 119",
+    "TeacherName": "Adam Roman",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 119",
+    "TeacherName": "Adam Roman",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 119",
+    "TeacherName": "Adam Roman",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 119a",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 119a",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 119a",
+    "TeacherName": "Anna Kalita",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 119a",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 121",
+    "TeacherName": "Adam Rybaczyk",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 125",
+    "TeacherName": "Justyna Paderewska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 202",
+    "TeacherName": "Ewelina Rynko",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 202",
+    "TeacherName": "Ewelina Rynko",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 202",
+    "TeacherName": "Ewelina Rynko",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 202",
+    "TeacherName": "Ewelina Rynko",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 202",
+    "TeacherName": "Wioleta Radawiec",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 202",
+    "TeacherName": "Marcin Bojarowski",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 203",
+    "TeacherName": "Joanna Cichocka",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 203",
+    "TeacherName": "Joanna Cichocka",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 203",
+    "TeacherName": "Wioleta Radawiec",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 203",
+    "TeacherName": "Wioleta Radawiec",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 203",
+    "TeacherName": "Joanna Cichocka",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 203",
+    "TeacherName": "Joanna Cichocka",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 203",
+    "TeacherName": "Joanna Cichocka",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 204",
+    "TeacherName": "Wioleta Radawiec",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 204",
+    "TeacherName": "Marta Dąbrowska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 204",
+    "TeacherName": "Marta Dąbrowska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 204",
+    "TeacherName": "Marta Dąbrowska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 204",
+    "TeacherName": "Marta Dąbrowska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 204",
+    "TeacherName": "Marta Dąbrowska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 204",
+    "TeacherName": "Marta Dąbrowska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 205",
+    "TeacherName": "Pryk Anna",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 205",
+    "TeacherName": "Pryk Anna",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 205",
+    "TeacherName": "Damian Kruk",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 205",
+    "TeacherName": "Adam Wereszczyński",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 205",
+    "TeacherName": "Piotr Bukowski",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 205",
+    "TeacherName": "Marcin Bojarowski",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 205",
+    "TeacherName": "Marcin Bojarowski",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 206",
+    "TeacherName": "Marta Krawczyk",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 206",
+    "TeacherName": "Wiktoria Zalewska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 206",
+    "TeacherName": "Wiktoria Zalewska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 206",
+    "TeacherName": "Zofia Dmochowska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 206",
+    "TeacherName": "Zofia Dmochowska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 207",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 207",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 207",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 207",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 207",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 207",
+    "TeacherName": "Adam Wereszczyński",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 208",
+    "TeacherName": "Sabina Kaczyńska",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 208",
+    "TeacherName": "Sabina Kaczyńska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 208",
+    "TeacherName": "Sabina Kaczyńska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 208",
+    "TeacherName": "Sabina Kaczyńska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 208",
+    "TeacherName": "Sabina Kaczyńska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 208",
+    "TeacherName": "Sabina Kaczyńska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 208",
+    "TeacherName": "Sabina Kaczyńska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 208",
+    "TeacherName": "Justyna Paderewska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 208",
+    "TeacherName": "Justyna Paderewska",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 209",
+    "TeacherName": "Justyna Pawłowiec",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Słowińska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 209",
+    "TeacherName": "Sabina Kaczyńska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 212",
+    "TeacherName": "Anna Misztuk",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 212",
+    "TeacherName": "Anna Misztuk",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 212",
+    "TeacherName": "Kacper Opaliński",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 212",
+    "TeacherName": "Justyna Pawłowiec",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 212",
+    "TeacherName": "Justyna Pawłowiec",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 212",
+    "TeacherName": "Justyna Pawłowiec",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 212",
+    "TeacherName": "Justyna Pawłowiec",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 212",
+    "TeacherName": "Justyna Pawłowiec",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 214",
+    "TeacherName": "Małgorzata Styczyńska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 214",
+    "TeacherName": "Adam Rybaczyk",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 214",
+    "TeacherName": "Adam Rybaczyk",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 214",
+    "TeacherName": "Sylwia Prokopowicz",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 215",
+    "TeacherName": "Joanna Cichocka",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 215",
+    "TeacherName": "Diana Gwiazda",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 215",
+    "TeacherName": "Diana Gwiazda",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 216",
+    "TeacherName": "Małgorzata Styczyńska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 216",
+    "TeacherName": "Ewa Wacikowska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 216",
+    "TeacherName": "Ewa Wacikowska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 217",
+    "TeacherName": "Aleksandra Kozłowska",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 217",
+    "TeacherName": "Aleksandra Kozłowska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 217",
+    "TeacherName": "Agnieszka Kucińska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 217",
+    "TeacherName": "Agnieszka Kucińska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 217",
+    "TeacherName": "Katarzyna Koplin",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 217",
+    "TeacherName": "Agnieszka Kucińska",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala ST",
+    "TeacherName": "Pryk Anna",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala ST",
+    "TeacherName": "Marta Krawczyk",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 18",
+    "TeacherName": "Styczyńska Małgorzata",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 18",
+    "TeacherName": "Styczyńska Małgorzata",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 18",
+    "TeacherName": "Kruk Damian",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 18",
+    "TeacherName": "Pawłowska Monika",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 18",
+    "TeacherName": "Kicka Aleksandra",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 18",
+    "TeacherName": "Bergmański Grzegorz",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 18",
+    "TeacherName": "Bergmański Grzegorz",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 19",
+    "TeacherName": "Dorota Marczak",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 19",
+    "TeacherName": "Dorota Marczak",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 19",
+    "TeacherName": "Ewa Mieszczyńska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 19",
+    "TeacherName": "Ewa Mieszczyńska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 19",
+    "TeacherName": "Ewa Mieszczyńska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 20",
+    "TeacherName": "Anna Czajkowska",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 20",
+    "TeacherName": "Anna Czajkowska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 20",
+    "TeacherName": "Anna Urynowicz",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 20",
+    "TeacherName": "Anna Czajkowska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 20",
+    "TeacherName": "Anna Urynowicz",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 20",
+    "TeacherName": "Anna Urynowicz",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 21",
+    "TeacherName": "Bojarzyn-Zalewska Ewa",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 21",
+    "TeacherName": "Bojarzyn-Zalewska Ewa",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 21",
+    "TeacherName": "Anna Czajkowska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 21",
+    "TeacherName": "Anna Urynowicz",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 21",
+    "TeacherName": "Zalewska Wiktoria",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 21",
+    "TeacherName": "Zalewska Wiktoria",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 22",
+    "TeacherName": "Kicka Aleksandra",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 22",
+    "TeacherName": "Kicka Aleksandra",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 22",
+    "TeacherName": "Izabela Drężek",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 22",
+    "TeacherName": "Izabela Drężek",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 22",
+    "TeacherName": "Krawczyk Marta",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 22",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 23",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 23",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 23",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 23",
+    "TeacherName": "Pełszyk Paweł",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 23",
+    "TeacherName": "Pawłowiec Justyna",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 24",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 102",
+    "TeacherName": "Izabela Piotrowska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 102",
+    "TeacherName": "Izabela Piotrowska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 102",
+    "TeacherName": "Izabela Piotrowska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 102",
+    "TeacherName": "Izabela Piotrowska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 102",
+    "TeacherName": "Diana Gwiazda",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 102",
+    "TeacherName": "Sylwia Prokopowicz",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 103",
+    "TeacherName": "Katarzyna Koplin",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 103",
+    "TeacherName": "Katarzyna Koplin",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 103",
+    "TeacherName": "Elżbieta Sokołowska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 103",
+    "TeacherName": "Katarzyna Koplin",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 103",
+    "TeacherName": "Katarzyna Koplin",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 103",
+    "TeacherName": "Elżbieta Sokołowska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 103",
+    "TeacherName": "Izabela Piotrowska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 103",
+    "TeacherName": "Elżbieta Sokołowska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 104",
+    "TeacherName": "Pryk Anna",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 104",
+    "TeacherName": "Bojarzyn-Zalewska Ewa",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 104",
+    "TeacherName": "Yana Lysenko",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 104",
+    "TeacherName": "Yana Lysenko",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 105",
+    "TeacherName": "Izabela Drężek",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 105",
+    "TeacherName": "Izabela Drężek",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 105",
+    "TeacherName": "Szuszkiewicz Bożena",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 105",
+    "TeacherName": "Koplin Katarzyna",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 105",
+    "TeacherName": "Szuszkiewicz Bożena",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 105",
+    "TeacherName": "Szuszkiewicz Bożena",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 106",
+    "TeacherName": "Zalewska Wiktoria",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 106",
+    "TeacherName": "Zalewska Wiktoria",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 106",
+    "TeacherName": "Bojarzyn-Zalewska Ewa",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 106",
+    "TeacherName": "Bojarzyn-Zalewska Ewa",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 107",
+    "TeacherName": "Pełszyk Paweł",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 107",
+    "TeacherName": "Lewicka Weronika",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 107",
+    "TeacherName": "Monika Pawłowska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 107",
+    "TeacherName": "Monika Pawłowska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 107",
+    "TeacherName": "Monika Pawłowska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 108",
+    "TeacherName": "Otolińska Beata",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 108",
+    "TeacherName": "Otolińska Beata",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 108",
+    "TeacherName": "Otolińska Beata",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 108",
+    "TeacherName": "Otolińska Beata",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 109",
+    "TeacherName": "Anna Kalita",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 109",
+    "TeacherName": "Marcin Kowalczyk",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 109",
+    "TeacherName": "Anna Kalita",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 109",
+    "TeacherName": "Anna Kalita",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 109",
+    "TeacherName": "Marcin Kowalczyk",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 109",
+    "TeacherName": "Marcin Kowalczyk",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 109",
+    "TeacherName": "Marcin Kowalczyk",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 110",
+    "TeacherName": "Marcin Kowalczyk",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 114",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 118",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 118",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 118",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 118",
+    "TeacherName": "Opaliński Kacper",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 118",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 118",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 119",
+    "TeacherName": "Roman Adam",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 119a",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 119a",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 119a",
+    "TeacherName": "Bojarowski Marcin",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 119a",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 119a",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 119a",
+    "TeacherName": "Marta Krawczyk",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 119a",
+    "TeacherName": "Mirella Czerwińska-Bartosik",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 202",
+    "TeacherName": "Joanna Cichocka",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 202",
+    "TeacherName": "Joanna Cichocka",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 202",
+    "TeacherName": "Rynko Ewelina",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 202",
+    "TeacherName": "Rynko Ewelina",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 203",
+    "TeacherName": "Rynko Ewelina",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 203",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 204",
+    "TeacherName": "Piotr Złotkowski",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 204",
+    "TeacherName": "Piotr Złotkowski",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 204",
+    "TeacherName": "Marcin Kowalczyk",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 204",
+    "TeacherName": "Marcin Kowalczyk",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 204",
+    "TeacherName": "Marta Dąbrowska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 204",
+    "TeacherName": "Marta Dąbrowska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 205",
+    "TeacherName": "Marcin Bojarowski",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 205",
+    "TeacherName": "Marcin Bojarowski",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 205",
+    "TeacherName": "Piotr Bukowski",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 205",
+    "TeacherName": "Bilski Zbigniew",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 205",
+    "TeacherName": "Piotr Bukowski",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 206",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 206",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 206",
+    "TeacherName": "Mirella Czerwińska-Bartosik",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 206",
+    "TeacherName": "Mirella Czerwińska-Bartosik",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 206",
+    "TeacherName": "Bilski Zbigniew",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 206",
+    "TeacherName": "Bilski Zbigniew",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 207",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 207",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 207",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 207",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 207",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 208",
+    "TeacherName": "Justyna Paderewska",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 208",
+    "TeacherName": "Justyna Paderewska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 208",
+    "TeacherName": "Justyna Paderewska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 208",
+    "TeacherName": "Justyna Paderewska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 209",
+    "TeacherName": "Wołejko Anna",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 210",
+    "TeacherName": "Misztuk Anna",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 210",
+    "TeacherName": "Szarek Emilia",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 212",
+    "TeacherName": "Pawłowiec Justyna",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 212",
+    "TeacherName": "Pawłowiec Justyna",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 212",
+    "TeacherName": "Anna Misztuk",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 212",
+    "TeacherName": "Anna Misztuk",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 212",
+    "TeacherName": "Anna Misztuk",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 214",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 214",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 214",
+    "TeacherName": "Styczyńska Małgorzata",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 214",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 214",
+    "TeacherName": "Styczyńska Małgorzata",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 214",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 214",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 215",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 216",
+    "TeacherName": "Misztuk Anna",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 216",
+    "TeacherName": "Ewa Wacikowska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 216",
+    "TeacherName": "Ewa Wacikowska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 216",
+    "TeacherName": "Izabela Piotrowska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 216",
+    "TeacherName": "Ewa Wacikowska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 217",
+    "TeacherName": "Aleksandra Kozłowska",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 217",
+    "TeacherName": "Aleksandra Kozłowska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 217",
+    "TeacherName": "Marta Krawczyk",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 217",
+    "TeacherName": "Aleksandra Kozłowska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala ST",
+    "TeacherName": "Misztuk Anna",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 18",
+    "TeacherName": "Paderewska Justyna",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 18",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 18",
+    "TeacherName": "Kruk Damian",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 18",
+    "TeacherName": "Kruk Damian",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 18",
+    "TeacherName": "Bukowski Piotr",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 18",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 19",
+    "TeacherName": "Mieszczyńska Ewa",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 19",
+    "TeacherName": "Mieszczyńska Ewa",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 19",
+    "TeacherName": "Mieszczyńska Ewa",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 19",
+    "TeacherName": "Mieszczyńska Ewa",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 20",
+    "TeacherName": "Urynowicz Anna",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 22",
+    "TeacherName": "Dorota Marczak",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 22",
+    "TeacherName": "Dorota Marczak",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 21",
+    "TeacherName": "Anna Czajkowska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 21",
+    "TeacherName": "Anna Czajkowska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 21",
+    "TeacherName": "Bilski Zbigniew",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 21",
+    "TeacherName": "Bilski Zbigniew",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 22",
+    "TeacherName": "Aleksandra Kicka",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 22",
+    "TeacherName": "Aleksandra Kicka",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 22",
+    "TeacherName": "Kicka Aleksandra",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 23",
+    "TeacherName": "Pełszyk Paweł",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 23",
+    "TeacherName": "Pełszyk Paweł",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 23",
+    "TeacherName": "Pełszyk Paweł",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 23",
+    "TeacherName": "Pełszyk Paweł",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 24",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 24",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 24",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 24",
+    "TeacherName": "Bartłomiej Puciłowski",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 102",
+    "TeacherName": "Sylwia Prokopowicz",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 102",
+    "TeacherName": "Sylwia Prokopowicz",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 102",
+    "TeacherName": "Izabela Piotrowska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 102",
+    "TeacherName": "Izabela Piotrowska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 102",
+    "TeacherName": "Ewa Barańska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 103",
+    "TeacherName": "Katarzyna Koplin",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 103",
+    "TeacherName": "Katarzyna Koplin",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 103",
+    "TeacherName": "Izabela Piotrowska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 103",
+    "TeacherName": "Sylwia Prokopowicz",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 103",
+    "TeacherName": "Sylwia Prokopowicz",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 104",
+    "TeacherName": "Yana Lysenko",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 104",
+    "TeacherName": "Piotr Bukowski",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 105",
+    "TeacherName": "Marta Krawczyk",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 105",
+    "TeacherName": "Izabela Drężek",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 105",
+    "TeacherName": "Izabela Drężek",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 105",
+    "TeacherName": "Izabela Drężek",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 105",
+    "TeacherName": "Izabela Drężek",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 105",
+    "TeacherName": "Wiktoria Zalewska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 105",
+    "TeacherName": "Wiktoria Zalewska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 106",
+    "TeacherName": "Wiktoria Zalewska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 106",
+    "TeacherName": "Izabela Piotrowska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 106",
+    "TeacherName": "Monika Pawłowska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 106",
+    "TeacherName": "Monika Pawłowska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 106",
+    "TeacherName": "Monika Pawłowska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 106",
+    "TeacherName": "Monika Pawłowska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 107",
+    "TeacherName": "Weronika Lewicka",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 107",
+    "TeacherName": "Wiktoria Zalewska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 107",
+    "TeacherName": "Wiktoria Zalewska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 107",
+    "TeacherName": "Bojarzyn-Zalewska Ewa",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 107",
+    "TeacherName": "Bojarzyn-Zalewska Ewa",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 108",
+    "TeacherName": "Kacper Opaliński",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 109",
+    "TeacherName": "Anna Kalita",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 109",
+    "TeacherName": "Anna Kalita",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 109",
+    "TeacherName": "Szarek Emilia",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 109",
+    "TeacherName": "Kalita Anna",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 110",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 110",
+    "TeacherName": "Emilia Szarek",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 114",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 114",
+    "TeacherName": "Kostuj Witold",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 116",
+    "TeacherName": "Strzelecki Jarosław",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 118",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 118",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 118",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 118",
+    "TeacherName": "Sutkowska Monika",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 119",
+    "TeacherName": "Grzegorz Bergmański",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 119",
+    "TeacherName": "Adam Roman",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 119",
+    "TeacherName": "Adam Roman",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 119",
+    "TeacherName": "Adam Roman",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 119",
+    "TeacherName": "Adam Roman",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 119",
+    "TeacherName": "Adam Roman",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 119a",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 119a",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 119a",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 119a",
+    "TeacherName": "Sylwia Piasecka",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 119a",
+    "TeacherName": "Beata Otolińska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 121",
+    "TeacherName": "Jolanta Meller",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 125",
+    "TeacherName": "Jakub Gorczewski",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 202",
+    "TeacherName": "Joanna Cichocka",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 202",
+    "TeacherName": "Joanna Cichocka",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 202",
+    "TeacherName": "Joanna Cichocka",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 202",
+    "TeacherName": "Joanna Cichocka",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 202",
+    "TeacherName": "Joanna Cichocka",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 202",
+    "TeacherName": "Joanna Cichocka",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 202",
+    "TeacherName": "Joanna Cichocka",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 203",
+    "TeacherName": "Mirella Czerwińska-Bartosik",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 203",
+    "TeacherName": "Mirella Czerwińska-Bartosik",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 204",
+    "TeacherName": "Piotr Złotkowski",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 204",
+    "TeacherName": "Piotr Złotkowski",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 204",
+    "TeacherName": "Piotr Złotkowski",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 204",
+    "TeacherName": "Marta Dąbrowska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 204",
+    "TeacherName": "Marta Dąbrowska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 204",
+    "TeacherName": "Marta Dąbrowska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 204",
+    "TeacherName": "Marta Dąbrowska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 205",
+    "TeacherName": "Piotr Bukowski",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 205",
+    "TeacherName": "Piotr Bukowski",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 205",
+    "TeacherName": "Piotr Bukowski",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 205",
+    "TeacherName": "Rynko Ewelina",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 205",
+    "TeacherName": "Marcin Bojarowski",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 205",
+    "TeacherName": "Marcin Bojarowski",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 205",
+    "TeacherName": "Marcin Bojarowski",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 206",
+    "TeacherName": "Zofia Dmochowska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 206",
+    "TeacherName": "Edyta Sowińska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 206",
+    "TeacherName": "Zofia Dmochowska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 206",
+    "TeacherName": "Zofia Dmochowska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 207",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 207",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 207",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 207",
+    "TeacherName": "Adam Wereszczyński",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 207",
+    "TeacherName": "Adam Wereszczyński",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 208",
+    "TeacherName": "Justyna Paderewska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 208",
+    "TeacherName": "Justyna Pawłowiec",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 208",
+    "TeacherName": "Justyna Pawłowiec",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 208",
+    "TeacherName": "Justyna Paderewska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 208",
+    "TeacherName": "Justyna Paderewska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 209",
+    "TeacherName": "Marcin Kowalczyk",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 209",
+    "TeacherName": "Magdalena Stanowicka-El Gendy",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 210",
+    "TeacherName": "Otolińska Beata",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 210",
+    "TeacherName": "Urszula Szmigiel-Rydzewska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 212",
+    "TeacherName": "Justyna Pawłowiec",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 212",
+    "TeacherName": "Anna Misztuk",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 212",
+    "TeacherName": "Anna Misztuk",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 212",
+    "TeacherName": "Anna Misztuk",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 212",
+    "TeacherName": "Katarzyna Koplin",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 212",
+    "TeacherName": "Agnieszka Kucińska",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 214",
+    "TeacherName": "Styczyńska Małgorzata",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 214",
+    "TeacherName": "Styczyńska Małgorzata",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 214",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 215",
+    "TeacherName": "Marta Dąbrowska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 215",
+    "TeacherName": "Marta Dąbrowska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 215",
+    "TeacherName": "Marcin Kowalczyk",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 215",
+    "TeacherName": "Marcin Kowalczyk",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 215",
+    "TeacherName": "Kaliszewska-Fiertek Małgorzata",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 216",
+    "TeacherName": "Ewa Wacikowska",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 216",
+    "TeacherName": "Ewa Wacikowska",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 216",
+    "TeacherName": "Ewa Wacikowska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 216",
+    "TeacherName": "Jastrzębowska Sandra",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 216",
+    "TeacherName": "Ewa Wacikowska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 216",
+    "TeacherName": "Aleksandra Kozłowska",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 217",
+    "TeacherName": "Aleksandra Kozłowska",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 217",
+    "TeacherName": "Agnieszka Kucińska",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 217",
+    "TeacherName": "Magdalena Słowińska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 217",
+    "TeacherName": "Agnieszka Kucińska",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 18",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 103",
+    "TeacherName": "Opaliński Kacper",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 103",
+    "TeacherName": "Prokopowicz Sylwia",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 110",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 115",
+    "TeacherName": "Barańska Ewa",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 118",
+    "TeacherName": "Wołejko Anna",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 119",
+    "TeacherName": "Adam Roman",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Poniedziałek",
+    "Location": "Sala 207",
+    "TeacherName": "Ewa Karczmarczyk",
+    "Time": "08:00 - 08:45",
+    "LessonNumber": 1
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 23",
+    "TeacherName": "Agnieszka Zawiślak-Jaśkiewicz",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "ST",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "ST",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "ST",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "ST",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "ST",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "ST",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 24",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 102",
+    "TeacherName": "Prokopowicz Sylwia",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 102",
+    "TeacherName": "Prokopowicz Sylwia",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 118",
+    "TeacherName": "Wołejko Anna",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 215",
+    "TeacherName": "Marta Dąbrowska",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 216",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Wtorek",
+    "Location": "Sala 217",
+    "TeacherName": "Słowińska Magdalena",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 20",
+    "TeacherName": "Urynowicz Anna",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 20",
+    "TeacherName": "Urynowicz Anna",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 20",
+    "TeacherName": "Urynowicz Anna",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 20",
+    "TeacherName": "Czajkowska Anna",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 21",
+    "TeacherName": "Bojarzyn-Zalewska Ewa",
+    "Time": "08:55 - 09:40",
+    "LessonNumber": 2
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 24",
+    "TeacherName": "Justyna Pawłowiec",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 24",
+    "TeacherName": "Agnieszka Kucińska",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 104",
+    "TeacherName": "Drężek Izabela",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 108",
+    "TeacherName": "Opaliński Kacper",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 108",
+    "TeacherName": "Otolińska Beata",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 108",
+    "TeacherName": "Otolińska Beata",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 115",
+    "TeacherName": "Bojarowski Marcin",
+    "Time": "10:45 - 11:30",
+    "LessonNumber": 4
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 115",
+    "TeacherName": "Bojarowski Marcin",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 116",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 116",
+    "TeacherName": "Rybaczyk Adam",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 203",
+    "TeacherName": "Paderewska Justyna",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 203",
+    "TeacherName": "Bukowski Piotr",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 206",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 208",
+    "TeacherName": "Paderewska Justyna",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 209",
+    "TeacherName": "Marcin Kowalczyk",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 209",
+    "TeacherName": "Marcin Kowalczyk",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Piątek",
+    "Location": "Sala 209",
+    "TeacherName": "Marcin Kowalczyk",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Środa",
+    "Location": "Sala 206",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "11:45 - 12:30",
+    "LessonNumber": 5
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 203",
+    "TeacherName": "Radawiec Wioleta",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 203",
+    "TeacherName": "Radawiec Wioleta",
+    "Time": "13:45 - 14:30",
+    "LessonNumber": 7
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 203",
+    "TeacherName": "Radawiec Wioleta",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 203",
+    "TeacherName": "Radawiec Wioleta",
+    "Time": "15:25 - 16:10",
+    "LessonNumber": 9
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 204",
+    "TeacherName": "Pryk Anna",
+    "Time": "12:45 - 13:30",
+    "LessonNumber": 6
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 207",
+    "TeacherName": "Wereszczyński Adam",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 208",
+    "TeacherName": "Koplin Katarzyna",
+    "Time": "09:50 - 10:35",
+    "LessonNumber": 3
+  },
+  {
+
+    "DayOfWeek": "Czwartek",
+    "Location": "Sala 209",
+    "TeacherName": "Słowińska Magdalena",
+    "Time": "14:35 - 15:20",
+    "LessonNumber": 8
+  }
+]
